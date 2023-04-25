@@ -1,2 +1,3 @@
-# gene_family_conflicts_cp
-redirect for CAnDI
+# CAnDI
+
+To see the current version of CAnDI, please go to https://github.com/HollyMaeRobertson/CAnDI.
